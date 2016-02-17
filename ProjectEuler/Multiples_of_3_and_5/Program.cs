@@ -34,9 +34,9 @@ namespace Multiples_of_3_and_5
             if (validMultiples[x] == validMultiples[y]) validMultiples[y] = 0;
          }
          int sumValidMultiples = 0;
-         for (int x = 0; x < validMultiples.Length; x++)//sum up the valid multiples
+         for (int z = 0; z < validMultiples.Length; z++)//sum up the valid multiples
          {
-            sumValidMultiples += validMultiples[x];
+            sumValidMultiples += validMultiples[z];
          }
          Console.WriteLine("The sum of all the multiples of 3 or 5 below "+ maxValue+":");
          Console.WriteLine(sumValidMultiples);
