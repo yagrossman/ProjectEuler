@@ -18,12 +18,6 @@ namespace Multiples_of_3_and_5
          {
             int mult3 = 3 * i;
             int mult5 = 5 * i;
-            if(mult3 == mult5 && mult3 < maxValue)
-            {
-               validMultiples[count] = mult3;
-               count++;
-               break;
-            }
             if (mult3 < maxValue)//valid multiple of 3
             {
                validMultiples[count] = mult3;
@@ -35,19 +29,13 @@ namespace Multiples_of_3_and_5
                count++;
             }
          }
-         /*//remove doubles
-         for (int x = 0; x < validMultiples.Length; x++)
-         {
-            for (int y = 0; y < validMultiples.Length; y++)
-            {
-               if (validMultiples[x] == validMultiples[y]) validMultiples[y] = 0;
-            }
-         }*/
-
+         //remove doubles
+         var uniqueValidMultiples = validMultiples.Distinct().ToArray();
+         //sum em up!!!
          int sumValidMultiples = 0;
-         for (int z = 0; z < validMultiples.Length; z++)//sum up the valid multiples
+         for (int z = 0; z < uniqueValidMultiples.Length; z++)//sum up the valid multiples
          {
-            sumValidMultiples += validMultiples[z];
+            sumValidMultiples += uniqueValidMultiples[z];
          }
          Console.WriteLine("The sum of all the multiples of 3 or 5 below "+ maxValue+":");
          Console.WriteLine(sumValidMultiples);
