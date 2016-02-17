@@ -27,6 +27,12 @@ namespace Multiples_of_3_and_5
                count++;
             }
          }
+         //remove doubles
+         int x = 0;
+         for (int y = 1; y < validMultiples.Length; y++)
+         {
+            if (validMultiples[x] == validMultiples[y]) validMultiples[y] = 0;
+         }
          int sumValidMultiples = 0;
          for (int x = 0; x < validMultiples.Length; x++)//sum up the valid multiples
          {
