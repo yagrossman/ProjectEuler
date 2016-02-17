@@ -11,9 +11,9 @@ namespace Multiples_of_3_and_5
       static void Main(string[] args)
       {
          int count = 0;
-         int[] validMultiples = { 0 };
          Console.WriteLine("Please Enter Max Value: ");
          int maxValue = int.Parse(Console.ReadLine());
+         int[] validMultiples = new int[maxValue];
          for (int i = 1; i < maxValue; i++)
          {
             if ((3 * i) < maxValue)//valid multiple of 3
@@ -21,7 +21,7 @@ namespace Multiples_of_3_and_5
                validMultiples[count] = 3 * i;
                count++;
             }
-            else if ((5 * i) < maxValue)//valid multiple of 5
+            if ((5 * i) < maxValue)//valid multiple of 5
             {
                validMultiples[count] = 5 * i;
                count++;
