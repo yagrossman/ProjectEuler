@@ -10,6 +10,17 @@ namespace _2_EvenFibonacci
    {
       static void Main(string[] args)
       {
+         int fibonacciTerm1 = 1,fibonacciTerm2 = 2, sumFibonacci = 0;
+         while (fibonacciTerm2 < 4000000)
+         {
+            if (fibonacciTerm1 % 2 == 0)
+               sumFibonacci += fibonacciTerm1;
+            int fibonacciTermNew = fibonacciTerm1 + fibonacciTerm2;
+            fibonacciTerm1 = fibonacciTerm2;
+            fibonacciTerm2 = fibonacciTermNew;
+         }
+         Console.WriteLine(sumFibonacci);
+         Console.ReadLine();
       }
    }
 }
