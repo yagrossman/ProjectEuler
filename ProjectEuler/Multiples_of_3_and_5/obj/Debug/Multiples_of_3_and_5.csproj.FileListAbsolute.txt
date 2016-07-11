@@ -1,0 +1,6 @@
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\Multiples_of_3_and_5\bin\Debug\Multiples_of_3_and_5.exe.config
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\Multiples_of_3_and_5\bin\Debug\Multiples_of_3_and_5.exe
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\Multiples_of_3_and_5\bin\Debug\Multiples_of_3_and_5.pdb
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\Multiples_of_3_and_5\obj\Debug\Multiples_of_3_and_5.csprojResolveAssemblyReference.cache
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\Multiples_of_3_and_5\obj\Debug\Multiples_of_3_and_5.exe
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\Multiples_of_3_and_5\obj\Debug\Multiples_of_3_and_5.pdb

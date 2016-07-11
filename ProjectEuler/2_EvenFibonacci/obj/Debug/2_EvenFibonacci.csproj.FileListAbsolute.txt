@@ -1,0 +1,6 @@
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\2_EvenFibonacci\bin\Debug\2_EvenFibonacci.exe.config
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\2_EvenFibonacci\bin\Debug\2_EvenFibonacci.exe
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\2_EvenFibonacci\bin\Debug\2_EvenFibonacci.pdb
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\2_EvenFibonacci\obj\Debug\2_EvenFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\2_EvenFibonacci\obj\Debug\2_EvenFibonacci.exe
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\2_EvenFibonacci\obj\Debug\2_EvenFibonacci.pdb

@@ -1,0 +1,6 @@
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\3_LargestPrimeFactor\bin\Debug\3_LargestPrimeFactor.exe.config
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\3_LargestPrimeFactor\bin\Debug\3_LargestPrimeFactor.exe
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\3_LargestPrimeFactor\bin\Debug\3_LargestPrimeFactor.pdb
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\3_LargestPrimeFactor\obj\Debug\3_LargestPrimeFactor.csprojResolveAssemblyReference.cache
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\3_LargestPrimeFactor\obj\Debug\3_LargestPrimeFactor.exe
+C:\Users\yagro\Documents\GitHub Repos\ProjectEuler\ProjectEuler\3_LargestPrimeFactor\obj\Debug\3_LargestPrimeFactor.pdb
